@@ -1,3 +1,4 @@
+#se importan las bibliotecas
 import tkinter as tk
 from tkinter import messagebox
 import mysql.connector
